@@ -1,0 +1,5 @@
+nome: "Mega Man X" | preco: 280.00 | estoque: 15
+nome: "Donkey Kong Country" | preco: 220.00 | estoque: 0
+nome: "Repro/Novas" | preco: 125,00. | estoque: 1
+nome: "Super Famicom" | preco: 145,00. | estoque: 0
+nome: " Original Americano (Loose/Apenas a fita)" |  preço: 225,00| estoque: 8
